@@ -1,0 +1,27 @@
+{
+  "name": "palette-variations",
+  "version": "0.1.0",
+  "description": "variations on palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bobrossism/palette-variations.git"
+  },
+  "keywords": [
+    "color",
+    "variations"
+  ],
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobrossism/palette-variations/issues"
+  },
+  "homepage": "https://github.com/bobrossism/palette-variations",
+  "dependencies": {
+    "color": "^0.7.3",
+    "palette": "bobrossism/palette"
+  }
+}
